@@ -1,6 +1,7 @@
 ### 👋 Hello there!
 
 - 🛠️ I'm an embedded software engineer at Dynetics with over two years of experience. I'm extremely passionate about my work and I love taking on tough challenges to strengthen my soft and hard skills.
+- 📖 I'm currently working on my Master's of Science in Electrical and Computer Engineering from the Purdue University. I'm taking specialty courses with a focus in Computer Engineering and Signal Processing.
 - ⚡ Outside of work I love to explore in the outdoors ⛰️, learn new software skills 🧰, and spend time with friends and family 👪.
 
 ### Work Experience
