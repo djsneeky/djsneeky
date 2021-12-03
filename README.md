@@ -1,7 +1,7 @@
 ### 👋 Hello there!
 
 - 🛠️ I'm an embedded software engineer at Dynetics with over two years of experience. I'm extremely passionate about my work and I love taking on tough challenges to strengthen my soft and hard skills.
-- ⚡ Outside of work I love to spend time in the outdoors ⛰️, learn new software skills 🧰, and spend time with friends and family 👪.
+- ⚡ Outside of work I love to explore in the outdoors ⛰️, learn new software skills 🧰, and spend time with friends and family 👪.
 
 ### Work Experience
 
