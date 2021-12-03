@@ -12,7 +12,9 @@ Instead of going into great detail, here's a few buzzwords that describe some of
  - RTOS and Bare Metal Development (C/C++)
  - Device Driver Development
  - Digital System Design (VHDL/Verilog)
+ - GitLab CI/CD Pipelines
  - PCB Schematic Design
+ - PCB Testing
  - GUI Design (Qt/PyQt)
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/david-furtwengler/) if you're curious about more details of my work experience.
