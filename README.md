@@ -9,7 +9,7 @@
 
 Instead of going into great detail, here's a few buzzwords that describe some of the work that I do:
 
- - SoCs/FPGAs
+ - SoCs/FPGAs/MCUs
  - Embedded System Design
  - RTOS and Bare Metal Development (C/C++)
  - Device Driver Development
@@ -29,7 +29,10 @@ I have some more projects in progress and projects not listed here, but here's s
 
 A web accessible camera system to view my girlfriend's fish (Marty) from anywhere in the world! This project involves using a Raspberry Pi Zero W and a Raspberry Pi Camera. I installed drivers for the camera, setup access to the Pi via a remote SSH connection, and configured a local web server on the Pi - all from the CLI.
 
-[//]: # (TODO: Upload and link my Compiler Design Project)
+#### [C to RISC-V Compiler Design](https://github.com/djsneeky/Compiler-Project)
+
+My version of a a C-like language to a modified RISC-V Compiler using ANTLR for parsing and AST post-processing Java classes for code generation. Simulation of the assembly is completed within a docker container to validate passing test cases.
+
 [//]: # (TODO: Upload and link my RISC-V CPU Design Project)
 
 ### 👀 Some new things I'm learning about!
