@@ -25,10 +25,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/david-furtwengler/) if
 
 I have some more projects in progress and projects not listed here, but here's some notable ones that I actually completed.
 
-#### MartyCam
-
-A web accessible camera system to view my girlfriend's fish (Marty) from anywhere in the world! This project involves using a Raspberry Pi Zero W and a Raspberry Pi Camera. I installed drivers for the camera, setup access to the Pi via a remote SSH connection, and configured a local web server on the Pi - all from the CLI.
-
 #### [C to RISC-V Compiler Design](https://github.com/djsneeky/Compiler-Project)
 
 My version of a a C-like language to a modified RISC-V Compiler using ANTLR for parsing and AST post-processing Java classes for code generation. Simulation of the assembly is completed within a docker container to validate passing test cases.
