@@ -2,7 +2,7 @@
 
 - 🛠️ I'm a software engineer at BlueHalo with 3+ years of experience. I'm extremely passionate about my work and I love taking on tough challenges.
 - 📖 I'm currently working on my Master's of Science in Electrical and Computer Engineering from Purdue University. I'm taking specialty courses with a focus in Computer Engineering and Signal Processing.
-- 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/david-furtwengler/).
+- 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/david-furt/).
 
 ### Experience
 
