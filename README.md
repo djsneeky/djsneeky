@@ -2,10 +2,9 @@
 
 - 🛠️ I'm a software engineer at BlueHalo with 3+ years of experience. I'm extremely passionate about my work and I love taking on tough challenges.
 - 📖 I'm currently working on my Master's of Science in Electrical and Computer Engineering from Purdue University. I'm taking specialty courses with a focus in Computer Engineering and Signal Processing.
-- ⚡ Outside of work I love to explore in the outdoors ⛰️, learn new software skills 🧰, and spend time with friends and family 👪.
 - 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/david-furtwengler/).
 
-### Work Experience
+### Experience
 
  - C/C++ for embedded applications
  - Docker for containerized microservices
